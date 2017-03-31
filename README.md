@@ -5,8 +5,10 @@
 In nur 2 Schritten ein dynamisches cross-domain Iframe einbinden:
 
 Schritt 1: (Script)
-Das gesamte JavaScript von Zeile 8 - 34 kopieren und in den Head-Bereich der Seite einfügen.
+Öffnen Sie die [script.js](script.js) und fügen Sie den gesamten Inhalt in den Head-Bereich Ihrer Website.
 
 Schritt 2: (html)
-Den gesamten Code der Zeile 37 kopieren und in die gewünschte Position einfügen.
+Kopieren Sie den Inhalt der html Seite und fügen Sie diesen in die gewünschte Position Ihrer Seite ein.
+[vorlage-de.html](vorlage-de.html) Version auf deutsch
+[vorlage-en.html](vorlage-en.html) Version auf englisch
 Achtung: Der Div-Container mit der ID "hsdwcontent" ist für eine korrekte Funktionalität notwendig.
