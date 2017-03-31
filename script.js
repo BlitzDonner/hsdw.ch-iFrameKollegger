@@ -14,7 +14,7 @@ window.addEventListener('resize', function(event){
   frame.parentNode.removeChild(frame);
   /* Create new Iframe */
   var iframe = document.createElement('iframe');
-  iframe.src = 'IFRAME DOMAIN';
+  iframe.src = 'embed.hsdw.ch/kollegger/';
   iframe.width="100%";
   iframe.setAttribute('allowFullScreen', '');
   iframe.setAttribute('frameborder', '0');
