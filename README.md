@@ -1,14 +1,13 @@
 # hsdw - iFrame Einbettung Kollegger
 
-**Version 1.0** (31.03.2017)
+**Version 1.1** (31.03.2017)
 
-In nur 2 Schritten ein dynamisches cross-domain Iframe einbinden:
+Einbindung cross domain iframe Hirt swiss descending windows.
 
-Schritt 1: (Script)
-Öffnen Sie die [script.js](script.js) und fügen Sie den gesamten Inhalt in den Head-Bereich Ihrer Website.
+1. iFrame einbinden
+Zur Darstellung des iFrames kopieren Sie die Zeile aus [vorlage-de.html](vorlage-de.html) bzw. [vorlage-en.html](vorlage-en.html) file an der gewünschten Position in Ihrer Website.
 
-Schritt 2: (html)
-Kopieren Sie den Inhalt der html Seite und fügen Sie diesen in die gewünschte Position Ihrer Seite ein.
-[vorlage-de.html](vorlage-de.html) Version auf deutsch
-[vorlage-en.html](vorlage-en.html) Version auf englisch
-Achtung: Der Div-Container mit der ID "hsdwcontent" ist für eine korrekte Funktionalität notwendig.
+**Achtung:** Der Div-Container mit der ID `"hsdwcontent"` ist für die Funktionalität notwendig.
+
+2. Script einbinden
+Fügen Sie [scripts.js](scripts.js) im Head-Bereich Ihrer Website ein.
