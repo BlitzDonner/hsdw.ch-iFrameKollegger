@@ -9,4 +9,4 @@ Einbindung cross domain iframe Hirt swiss descending windows.
 * **Achtung:** Der Div-Container mit der ID `"hsdwcontent"` ist für die Funktionalität notwendig.
 
 2. Script einbinden
-* Fügen Sie [scripts.js](scripts.js) im Head-Bereich Ihrer Website ein.
+* Fügen Sie [script.js](script.js) im Head-Bereich Ihrer Website ein.
